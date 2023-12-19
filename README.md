@@ -3,7 +3,7 @@
 Welcome to the Space Wars game!
 This interactive space battle allows you to control a human spaceship against a variety of enemy ships.
 
-![Uploading spaceWarsExample.png…]()
+![spaceWarsExample](https://github.com/OriDriham/SpaceWars/assets/145263130/a5cfaff0-67c0-41fe-996a-786fbca151b2)
 
 
 # File Descriptions
